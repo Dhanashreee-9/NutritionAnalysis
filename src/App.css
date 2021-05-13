@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  
+}
+
+.text-block {
+  position: relative;
+  height: 600px;
+  width: 1000px;
+  background-color:white;
+  color: black;
+  margin: auto;
+  
+}
