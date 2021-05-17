@@ -1,0 +1,14 @@
+.error-message {
+    color: green;
+    display: flex;
+    align-items: center ;
+  }
+  
+  @media screen and (max-width: 700px) {
+    .error-message {
+      color:green;
+      display: flex;
+      justify-content: center;
+    }
+  }
+  

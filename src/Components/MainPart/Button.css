@@ -1,0 +1,83 @@
+/* .input-form {
+    /* background-color: blue; */
+    /* margin-top: 20px; */
+    /* margin: 20px 0 0 80px; */
+  
+h4{
+    font-size: 30px;
+    text-align: center;
+    color: yellowgreen;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDx-cNzF02TVhgP457rriVxdMX2HgJTZaWA&usqp=CAU");
+    height: 50px;
+    width: 500px;
+}
+
+  .text {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  span{
+      color: orange;
+  }
+  
+  .input-field {
+    margin: 30px;
+    padding: 20px;
+    padding-bottom: 0;
+  }
+  .input-field textarea {
+    min-width: 400px;
+    height: 400px;
+  }
+  .btn {
+    text-align: left;
+    margin-left: 50px;
+  }
+  .btn button {
+    padding: 10px;
+    margin: 18px;
+    border: 1px solid rgb(89 243 89);
+    background-color: yellowgreen;
+    color: black;
+    border-radius: 4px;
+  }
+  
+  /* for responsive view */
+  @media screen and (max-width: 700px) {
+    .input-form {
+      margin: 0;
+    }
+    .text p {
+      margin: 10px;
+      text-align: justify;
+      line-height: 1.5;
+    }
+    .input-field {
+      text-align: center;
+    }
+    .input-field textarea {
+      min-width: 300px !important;
+      width: 300px;
+      height: 300px;
+      margin: auto;
+    }
+  }
+  
+  @media screen and (max-width: 420px) {
+    .input-field {
+      margin: 0;
+      padding: 0;
+    }
+  }
+  
+  @media screen and (max-width: 350px) {
+    .input-field textarea {
+      min-width: 240px !important;
+      width: 240px;
+      height: 240px;
+      margin: auto;
+    }
+  }
+  
