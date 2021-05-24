@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NutritionAnalysis/static/css/main.c22d0859.chunk.css",
+    "main.css": "/NutritionAnalysis/static/css/main.7a80426b.chunk.css",
     "main.js": "/NutritionAnalysis/static/js/main.0f28c54b.chunk.js",
     "main.js.map": "/NutritionAnalysis/static/js/main.0f28c54b.chunk.js.map",
     "runtime-main.js": "/NutritionAnalysis/static/js/runtime-main.b16975f2.js",
@@ -12,14 +12,14 @@
     "static/js/3.e3e21e4b.chunk.js.map": "/NutritionAnalysis/static/js/3.e3e21e4b.chunk.js.map",
     "index.html": "/NutritionAnalysis/index.html",
     "static/css/2.c1f4f5f4.chunk.css.map": "/NutritionAnalysis/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.c22d0859.chunk.css.map": "/NutritionAnalysis/static/css/main.c22d0859.chunk.css.map",
+    "static/css/main.7a80426b.chunk.css.map": "/NutritionAnalysis/static/css/main.7a80426b.chunk.css.map",
     "static/js/2.f0042fd1.chunk.js.LICENSE.txt": "/NutritionAnalysis/static/js/2.f0042fd1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b16975f2.js",
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.f0042fd1.chunk.js",
-    "static/css/main.c22d0859.chunk.css",
+    "static/css/main.7a80426b.chunk.css",
     "static/js/main.0f28c54b.chunk.js"
   ]
 }
