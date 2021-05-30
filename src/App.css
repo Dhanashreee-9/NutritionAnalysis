@@ -1,14 +1,40 @@
-.App {
-  text-align: center;
-  
+body{
+  margin: 0;
+  padding: 0;
 }
 
+
+.App {
+  text-align: center;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-image: url('https://www.treehugger.com/thmb/BNr2j0GvF4E385InF3D25DHXlPM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__12__Ripe_tomatoes_on_vine-68ec0261a1394fcc8682f89d308b941a.jpg');
+}
 .text-block {
    position: relative;
   height: auto;
   width: 1000px;
   background-color:white;
   color: black;
-  margin: auto;
+  margin: 50px 0px;
   
+}
+
+@media screen and(max-width:600px) {
+  .text-block {
+    height: 500px;
+    width: 500px;
+   
+ }
+}
+
+@media screen and (max-width:600px) {
+  .container{
+    height: auto;
+    width:auto
+  }
 }

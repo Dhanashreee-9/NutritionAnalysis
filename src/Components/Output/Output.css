@@ -1,16 +1,9 @@
-.col-75 {
- 
+.output {
+  margin: 0 0 40px 40px;
+  /* border: 2px solid blue; */
   display: flex;
   justify-content: center;
-   /* float: left;
-   width: 75%;
-   margin-top: 6px;
-   margin-left: 16px;
-   padding-left: 30px; */
-   /* margin: 100px 0 40px 40px;
-   /* border: 2px solid blue; */
-   /* display: flex;
-   justify-content: center; */ 
+
  }
   
   .output .performance-facts {

@@ -37,9 +37,9 @@ onClicking=async()=>{
   
   render(){
     return(
-      <div>
+      <div className="container">
         <div className="text-block"> 
-        <div className="col-75"> 
+        <div className="output"> 
            <Button onClicking={this.onClicking}oninput ={this.onInputting}  clickBut={this.state.clickBut}/>
            {(this.state.clickBut && this.state.ingredient !== '') ?
             <Output data={this.state.data}/> 
